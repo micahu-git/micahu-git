@@ -1,8 +1,5 @@
-## Hi there 👋
+## Zdravím 👋
 
-# 👋 Zdravím
-
-<!--
 ## 🛡️ Cyber Security Enthusiast, Aspiring Junior Analyst, Junior OS/Network Administrator & Junior Software Tester
 
 Baví ma zisťovať, ako veci skutočne fungujú "pod kaputou", a následne hladať a porozumieť spôsobom, ako ich zabezpečiť.
@@ -36,4 +33,4 @@ Moje štúdium sa zameriava ako aj, na potrebnú teoretickú znalosť, no hlavne
 ### 📫 Odkazy
 - **TryHackMe Profil:** https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6824692
 
--->
+
