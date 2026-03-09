@@ -2,7 +2,7 @@
 
 ## 🛡️ Cyber Security Enthusiast, Aspiring Junior Analyst, Junior OS/Network Administrator & Junior Software Tester
 
-Baví ma zisťovať, ako veci skutočne fungujú "pod kaputou", a následne hladať a porozumieť spôsobom, ako ich zabezpečiť.
+Baví ma zisťovať, ako veci skutočne fungujú "pod kapotou", a následne hladať a porozumieť spôsobom, ako ich zabezpečiť.
 Moja cesta v sektoroch Kybernetickej Bezpečnosti, Správcovstva OSystémov a Sietí, či vzdelávaní sa v Penetračnom testovaní, nie je o robotickom "biflovaní" suchej teórie,
 ale o znalosti praktických riešení problémov.
 Moje štúdium sa zameriava ako aj, na potrebnú teoretickú znalosť, no hlavne, na praktické ovládanie nástrojov.
