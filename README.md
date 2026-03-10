@@ -1,17 +1,17 @@
 ## Zdravím 👋
 
-## 🛡️ Cyber Security Enthusiast, Aspiring Junior Analyst, Junior OS/Network Administrator & Junior Software Tester
+## 🛡️ Cyber Security Enthusiast, Aspiring Junior Analyst/SOC Analyst, Junior OS/Network Administrator & Student of Software Testing Basics
 
 Baví ma zisťovať, ako veci skutočne fungujú "pod kapotou", a následne hladať a porozumieť spôsobom, ako ich zabezpečiť.
 Moja cesta v sektoroch Kybernetickej Bezpečnosti, Správcovstva OSystémov a Sietí, či vzdelávaní sa v Penetračnom testovaní, nie je o robotickom "biflovaní" suchej teórie,
 ale o znalosti praktických riešení problémov.
-Moje štúdium sa zameriava ako aj, na potrebnú teoretickú znalosť, no hlavne, na praktické ovládanie nástrojov.
+Moje štúdium sa zameriava aj na potrebnú  teoretickú znalosť, no hlavne, na praktické ovládanie nástrojov.
 --
 
 ### 👨‍💻 Na čom aktuálne pracujem (Learning Path)
-- 🎓 **Základy:** 1. Aktuálne prechádzam cestu "Pre-Security" na TryHackMe (https://tryhackme.com/paths)
-                   2. Taktiež sa vzdelávam prostredníctvom rekvalifikačných akreditovaných a certifikovaných kurzov, na VITA Academy (https://www.vita.sk/)
-                    3. Snažím sa prechádzať si náučné stránky ako (https://portswigger.net/) a (https://sqlzoo.net/wiki/SQL_Tutorial)
+- 🎓 **Základy:** 1. Aktuálne prechádzam cestu "Pre-Security" na TryHackMe (https://tryhackme.com/paths), a "miestnosti" pre učenie narábania s rôznymi nástrojmi.
+                   2. Taktiež sa vzdelávam prostredníctvom rekvalifikačných akreditovaných a certifikovaných kurzov, na VITA Academy (https://www.vita.sk/), aktuálne prechádzam kurzom Penetračného Testovania Linux Kali.
+                    3. Snažím sa prechádzať si náučné stránky ako (https://portswigger.net/) a (https://sqlzoo.net/wiki/SQL_Tutorial).
                
 - 🌐 **Siete:** 1. Skúmam sieťovú prevádzku cez Wireshark a učím sa rozumieť komunikácii medzi zariadeniami.
                  2. Učím sa porozumieť Burp Suite, v ktorom základne trénujem na stránke TryHackMe.
@@ -22,8 +22,8 @@ Moje štúdium sa zameriava ako aj, na potrebnú teoretickú znalosť, no hlavne
 ### 🛠️ Zručnosti a nástroje, v ktorých sa denne učím (Skills & Tools)
 - **OS:** Linux (Ubuntu/Debian/Kali), Windows (PowerShell)
 - **Siete (Aktívne sa vzdelávam):** TCP/IP, DNS, DHCP, HTTP/S
-- **Nástroje (V procese učenie):** Wireshark, Nmap, Burp Suite, SysInternals, Postman, ale aj nástroje ako Selenium, Katalon, Cypress, DBeaver (Správa databáz) a Oracle Virtual Box.
-- **Jazyky:** Základy Python
+- **Nástroje (V procese učenie):** Wireshark, Nmap, Burp Suite, SysInternals, Postman, Active Directory, ale aj nástroje ako Selenium, Katalon, Cypress, DBeaver (Správa databáz) a Oracle Virtual Box.
+- **Jazyky:** Základy Python (Jednoduché skripty prostredníctvom kurzou)
 
 ### 📁 Čo si sem ukladám ?
 - **Write-ups:** Dokumentáciu môjho postupu, vyriešené úlohy z TryHackMe, ako viditelnosť pro-aktivity.
